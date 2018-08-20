@@ -1,6 +1,6 @@
 # samsonllam.github.io
 
-##trollface.sh
+## trollface.sh
 ```bash
 curl
 ```
