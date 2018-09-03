@@ -2,5 +2,5 @@
 
 ## trollface.sh
 ```bash
-curl
+curl -s https://samsonllam.github.io/trollface.sh | bash
 ```
